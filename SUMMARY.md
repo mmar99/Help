@@ -1,8 +1,10 @@
 # Table of contents
 
+* [Page 1](README.md)
+
 ## New Seller On-ramp
 
-* [Welcome!](README.md)
+* [Welcome!](<README (1).md>)
 * [Setting up your Seller Profile](new-seller-on-ramp/setting-up-your-seller-profile.md)
 * [App Walkthrough](new-seller-on-ramp/app-walkthrough.md)
 * [How to go live](new-seller-on-ramp/how-to-go-live.md)
