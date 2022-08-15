@@ -1,0 +1,2 @@
+# Metaphysical Category Social Templates
+
